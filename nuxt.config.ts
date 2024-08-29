@@ -24,10 +24,10 @@ export default defineNuxtConfig({
       },
     },
   },
-  devServer: {
-    // host:'192.168.2.105',
-    port: 3322,
-  },
+  // devServer: {
+  //   host:'192.168.2.105',
+  //   port: 3322,
+  // },
   nitro:{
     compressPublicAssets:true,
     // devProxy:{
